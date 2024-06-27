@@ -1,5 +1,0 @@
-# PR TYPE
-
-# Description
-
-# ETC
